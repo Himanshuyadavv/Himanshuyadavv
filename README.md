@@ -1,10 +1,5 @@
 # Hey there :wave:
 
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Himanshuyadavv/count.svg" />
-</p>
-
 ## About Me
 I'm a computer science student at VIT BHOPAL with a strong interest in machine learning and artificial intelligence. I've finished a number of projects utilising Python, TensorFlow, Keras, and OpenCV to develop tools for picture categorization and facial recognition. I am fluent in several programming languages including Python, C++, and Java. I'm hoping for a brighter future where I can use my knowledge of AI and gain insight from more seasoned experts.
 
