@@ -19,7 +19,6 @@ himanshu05032003@gmail.com
 ---
 
 # :book: Languages and Tools
-programming languages/python.svg
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus logo"  width="50" height ="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="JAVA logo"  width="50" height ="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo"  width="50" height ="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQl logo"  width="50" height ="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo"  width="50" height ="50" /> 
 
