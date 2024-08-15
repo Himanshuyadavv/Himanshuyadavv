@@ -1,3 +1,13 @@
+
+
+
+
+![Nature business LinkedIn banner](https://github.com/user-attachments/assets/609dc240-26ad-44e2-abc8-c7427ccb7813)
+
+
+
+
+
 # Hi there! 👋
 
 I'm Himanshu Yadav, a Data Science researcher and Machine Learning enthusiast based in India. Welcome to my GitHub space, where I blend data science 🔬 and ML 🛡️ to make a meaningful impact in the tech world. 🚀
