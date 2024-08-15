@@ -1,50 +1,47 @@
-# Hey there :wave:
+# Hi there! 👋
+
+I'm Himanshu Yadav, a Data Science researcher and Machine Learning enthusiast based in India. Welcome to my GitHub space, where I blend data science 🔬 and ML 🛡️ to make a meaningful impact in the tech world. 🚀
 
 ## About Me
-I'm a computer science student at VIT BHOPAL with a strong interest in machine learning and artificial intelligence. I've finished a number of projects utilising Python, Keras, and OpenCV to develop tools for picture categorization and facial recognition. I am fluent in several programming languages including Python, C++, and Java. I'm hoping for a brighter future where I can use my knowledge of AI and gain insight from more seasoned experts.
 
-Reach me at: 
+I am a Computer Science student at VIT Bhopal with a strong focus on machine learning and artificial intelligence. I have successfully completed several projects utilizing Python, Keras, and OpenCV, developing tools for image classification and facial recognition. I am proficient in multiple programming languages, including Python, C++, and Java. I am eager to apply my AI knowledge in real-world applications and am keen to gain insights and mentorship from experienced professionals in the field.
 
-himanshu05032003@gmail.com
+Always up for collaboration 🤝, tech discussions 💬, and seeking new challenges 💯. Let's join forces and build a better future together! 🤝
 
+- 🌍  Based in India
+- ✉️  Reach out to me at [himanshu05032003@gmail.com](mailto:himanshu05032003@gmail.com)
+- 🤝  Open to collaborations in the Intersection of Machine Learning and Data Science, projects on Kaggle 📊, and AI 🏥.
 
-## 🌐 Socials
+## Skills
 
-<!-- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div> -->
+### Computer Vision
+[![OpenCV](https://img.shields.io/badge/OpenCV-%23202020.svg?style=for-the-badge&logo=opencv)](https://opencv.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-%23202020.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23202020.svg?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/) [![scikit-image](https://img.shields.io/badge/scikit-image-%23202020.svg?style=for-the-badge)](https://scikit-image.org/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Himanshuyadavv) 
+### Artificial Intelligence
+[![scikit-learn](https://img.shields.io/badge/scikit-learn-%23202020.svg?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/stable/) [![PyTorch](https://img.shields.io/badge/PyTorch-%23202020.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23202020.svg?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/) [![scikit-optimize](https://img.shields.io/badge/scikit-optimize-%23202020.svg?style=for-the-badge&logo=scikit-optimize)](https://scikit-optimize.org/)
 
----
+### Machine Learning
+[![scikit-learn](https://img.shields.io/badge/scikit-learn-%23202020.svg?style=for-the-badge&logo=scikit-learn)](https://scikit-learn.org/stable/) [![PyTorch](https://img.shields.io/badge/PyTorch-%23202020.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/) [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23202020.svg?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/) [![XGBoost](https://img.shields.io/badge/XGBoost-%23202020.svg?style=for-the-badge&logo=xgboost)](https://xgboost.org/) [![SVM](https://img.shields.io/badge/SVM-%23202020.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Support_vector_machine) [![Linear Regression](https://img.shields.io/badge/Linear%20Regression-%23202020.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Linear_regression) [![Logistic Regression](https://img.shields.io/badge/Logistic%20Regression-%23202020.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Logistic_regression) [![Random Forest](https://img.shields.io/badge/Random%20Forest-%23202020.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Random_forest) [![KNN](https://img.shields.io/badge/KNN-%23202020.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm) [![K-Means Clustering](https://img.shields.io/badge/K-Means%20Clustering-%23202020.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/K-means_clustering) [![XGBoost](https://img.shields.io/badge/XGBoost-%23202020.svg?style=for-the-badge&logo=xgboost)](https://xgboost.org/)
 
-# :book: Languages and Tools
+### Deep Learning
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23202020.svg?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/) [![PyTorch](https://img.shields.io/badge/PyTorch-%23202020.svg?style=for-the-badge&logo=pytorch)](https://pytorch.org/) [![PyTorch Lightning](https://img.shields.io/badge/PyTorch%20Lightning-%23202020.svg?style=for-the-badge&logo=pytorch-lightning)](https://www.pytorchlightning.ai/) [![Keras](https://img.shields.io/badge/Keras-%23202020.svg?style=for-the-badge&logo=keras)](https://keras.io/) [![CNN](https://img.shields.io/badge/CNN-%23202020.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Convolutional_neural_network) [![DNN](https://img.shields.io/badge/DNN-%23202020.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_neural_network) [![RNN](https://img.shields.io/badge/RNN-%23202020.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Recurrent_neural_network) [![GAN](https://img.shields.io/badge/GAN-%23202020.svg?style=for-the-badge)](https://en.wikipedia.org/wiki/Generative_adversarial_network)
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="Cplusplus logo"  width="50" height ="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="JAVA logo"  width="50" height ="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode logo"  width="50" height ="50" />  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQl logo"  width="50" height ="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R logo"  width="50" height ="50" /> 
+### Programming Languages
+[![C++](https://img.shields.io/badge/C++-%23202020.svg?style=for-the-badge&logo=c%2B%2B)](https://docs.microsoft.com/en-us/cpp/?view=msvc-170) [![R](https://img.shields.io/badge/R-%23202020.svg?style=for-the-badge&logo=r)](https://www.r-project.org/) [![Java](https://img.shields.io/badge/Java-%23202020.svg?style=for-the-badge&logo=java)](https://www.oracle.com/java/) [![Python](https://img.shields.io/badge/Python-%23202020.svg?style=for-the-badge&logo=python)](https://www.python.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23202020.svg?style=for-the-badge&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
----
+### Database & Frameworks
+[![MySQL](https://img.shields.io/badge/MySQL-%23202020.svg?style=for-the-badge&logo=mysql)](https://www.mysql.com/) [![Flask](https://img.shields.io/badge/Flask-%23202020.svg?style=for-the-badge&logo=flask)](https://flask.palletsprojects.com/en/2.0.x/) [![Streamlit](https://img.shields.io/badge/Streamlit-%23202020.svg?style=for-the-badge&logo=streamlit)](https://streamlit.io/)
 
-# 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=Himanshuyadavv&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Himanshuyadavv&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshuyadavv&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+### Operating Systems & Cloud
+[![macOS](https://img.shields.io/badge/macOS-%23202020.svg?style=for-the-badge&logo=apple)](https://apple.com) [![Linux](https://img.shields.io/badge/Linux-%23202020.svg?style=for-the-badge&logo=linux)](https://www.linux.org/) [![Windows](https://img.shields.io/badge/Windows-%23202020.svg?style=for-the-badge&logo=windows)](https://www.microsoft.com/windows) [![AWS](https://img.shields.io/badge/AWS-%23202020.svg?style=for-the-badge&logo=amazon-aws)](https://aws.amazon.com/) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%23202020.svg?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Himanshuyadavv&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## Connect with Me
 
+Let's connect! Find me on:
 
+[![GitHub](https://img.shields.io/badge/GitHub-%23202020.svg?style=for-the-badge&logo=github)]([https://www.github.com/Vidhi1290](https://github.com/Himanshuyadavv ))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23202020.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/vidhi-waghela-434663198](https://www.linkedin.com/in/himanshuyadavv/ ))
 
-<!-- [![](https://visitcount.itsvg.in/api?id=Himanshuyadavv&icon=6&color=0)](https://visitcount.itsvg.in) -->
+**My GitHub Stats**
 
----
-
-### :link: Quick Links
-LinkedIn : https://www.linkedin.com/in/Himanshuyadavv
-
-Leetcode: 
-https://leetcode.com/HimanshuYadavv/
-
-HackerRank: 
-https://www.hackerrank.com/himanshu05032003
-
----
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Himanshuyadavv&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](http://www.github.com/Vidhi1290)
