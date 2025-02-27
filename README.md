@@ -50,7 +50,7 @@ Always up for collaboration 🤝, tech discussions 💬, and seeking new challen
 Let's connect! Find me on:
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23202020.svg?style=for-the-badge&logo=github)]([https://www.github.com/Vidhi1290](https://github.com/Himanshuyadavv )
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23202020.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/vidhi-waghela-434663198](https://www.linkedin.com/in/himanshuyadavv/ )
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23202020.svg?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/vidhi-wag(https://www.linkedin.com/in/himanshuyadavv/ )
 
 ### :link: Quick Links
 LinkedIn : https://www.linkedin.com/in/Himanshuyadavv
